@@ -449,6 +449,20 @@
       "first_name": "Mcbride",
       "last_name": "Woodward",
       "gender": "male"
+    },
+    {
+      "balance": 5000,
+      "firs_name": "Juan Ignacio",
+      "isActive": true,
+      "last_name": "Piroso",
+      "id": 51
+    },
+    {
+      "balance": 1,
+      "first_name": "Martin",
+      "isActive": true,
+      "last_name": "Villalba",
+      "id": 52
     }
   ]
 }
